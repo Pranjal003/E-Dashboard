@@ -5,7 +5,7 @@ export default function AddProducts() {
     const [price, setprice] = useState(" ");
     const [category, setcat] = useState(" ");
     const [company, setcom] = useState(" ");
-    
+      
       // Example starter JavaScript for disabling form submissions if there are invalid fields
 (function () {
   
