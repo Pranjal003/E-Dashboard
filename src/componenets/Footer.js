@@ -20,7 +20,7 @@ export default function Footer() {
         </a>
 
    
-      <a
+      <a 
         className="btn btn-link btn-floating btn-lg text-dark m-1"
         href="/"
         role="button"
