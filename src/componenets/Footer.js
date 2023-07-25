@@ -15,7 +15,7 @@ export default function Footer() {
         className="btn btn-link btn-floating btn-lg text-dark m-1"
         href="/"
         role="button"
-        data-mdb-ripple-color="dark"
+        data-mdb-ripple-color="dark" 
         ><i className="fab fa-facebook-f"></i>
         </a>
 
