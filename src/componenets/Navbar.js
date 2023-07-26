@@ -12,7 +12,7 @@ export default function Navbar() {
     return (
         <div> 
             {auth ?
-                <nav className="navbar navbar-expand-sm bg-body-tertiary">
+                <nav className="navbar navbar-expand-sm bg-body-tertiary"> 
                     <div className="container-fluid">
                         <a className="navbar-brand" href="/">
                             <img alt="e-dashboard" src="http://w7.pngwing.com/pngs/17/58/png-transparent-web-development-responsive-web-design-e-commerce-business-ecommerce-blue-angle-web-design.png" width="30" height="24"/>
