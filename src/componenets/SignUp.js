@@ -9,7 +9,7 @@ export default function SignUp() {
     const navigate = useNavigate()
 
     useEffect(()=>{
-        const auth  = localStorage.getItem('user');
+        const auth  = localStorage.getItem('user'); 
         if(auth){ 
             navigate('/')
         }
