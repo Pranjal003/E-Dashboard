@@ -19,7 +19,7 @@ export default function SignUp() {
         e.preventDefault();
         console.log(name, email, password);
         let result = await fetch('http://localhost:5000/register', {
-            method: 'post',
+            method: 'post', 
             body: JSON.stringify({ name, email, password }),
             headers: {
                 'Content-Type': 'application/json'
