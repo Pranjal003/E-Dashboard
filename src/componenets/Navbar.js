@@ -10,7 +10,7 @@ export default function Navbar() {
   
     }
     return (
-        <div> 
+        <div>  
             {auth ?
                 <nav className="navbar navbar-expand-sm bg-body-tertiary"> 
                     <div className="container-fluid">
