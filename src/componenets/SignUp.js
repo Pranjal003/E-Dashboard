@@ -15,7 +15,7 @@ export default function SignUp() {
         }
     })
 
-    const CollectData = async (e) => {
+    const CollectData = async (e) => { 
         e.preventDefault();
         console.log(name, email, password);
         let result = await fetch('http://localhost:5000/register', {
