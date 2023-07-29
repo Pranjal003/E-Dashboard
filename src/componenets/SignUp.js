@@ -13,7 +13,7 @@ export default function SignUp() {
         if(auth){ 
             navigate('/')
         }
-    })
+    }) 
 
     const CollectData = async (e) => { 
         e.preventDefault();
