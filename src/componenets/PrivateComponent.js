@@ -5,7 +5,7 @@ const PrivateComponent = () =>{
     const auth  = localStorage.getItem('user');
     return auth?<Outlet />:<Navigate to="/signUp" />
 }
-
+ 
 export default PrivateComponent
  
 // used for protected routes.
