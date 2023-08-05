@@ -9,7 +9,7 @@ export default function Navbar() {
         navigate('/signUp')
   
     } 
-    return (
+    return ( 
         <div>  
             {auth ?
                 <nav className="navbar navbar-expand-sm bg-body-tertiary"> 
