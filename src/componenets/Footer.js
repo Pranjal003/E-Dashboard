@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default function Footer() {
-  return (
+  return ( 
     <>
       
       <footer className="text-center text-white " style={{backgroundColor: "#f1f1f1", marginTop:"25px", position: 'fixed',
