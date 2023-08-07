@@ -2,7 +2,7 @@ import React from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 
 export default function Navbar() {
-    const auth = localStorage.getItem('user');
+    const auth = localStorage.getItem('user'); 
     const navigate = useNavigate();
     const logout = () => {
         localStorage.clear();
