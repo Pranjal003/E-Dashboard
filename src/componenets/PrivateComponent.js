@@ -9,3 +9,4 @@ const PrivateComponent = () =>{
 export default PrivateComponent
      
 // used for protected routes.
+ 
