@@ -13,7 +13,7 @@ export default function UpdateProduct() {
         getProductDetails();
     },[])
 
-    const getProductDetails = async ()=>{
+    const getProductDetails = async ()=>{ 
         let result = await fetch(`http://localhost:5000/product/${params.id}`)
         result = await result.json();
         setname(result.name);
