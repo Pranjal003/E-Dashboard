@@ -11,7 +11,7 @@ export default function Navbar() {
     } 
     return ( 
         <div>  
-            {auth ?
+            {auth ? 
                 <nav className="navbar navbar-expand-sm bg-body-tertiary"> 
                     <div className="container-fluid">
                         <a className="navbar-brand" href="/">
