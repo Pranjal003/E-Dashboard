@@ -17,7 +17,7 @@ export default function Navbar() {
                         <a className="navbar-brand" href="/">
                             <img alt="e-dashboard" src="http://w7.pngwing.com/pngs/17/58/png-transparent-web-development-responsive-web-design-e-commerce-business-ecommerce-blue-angle-web-design.png" width="30" height="24"/>
                         </a> 
-                        <div className="collapse navbar-collapse" id="navbarSupportedContent">
+                        <div className="collapse navbar-collapse" id="navbarSupportedContent"> 
                             <ul className="navbar-nav me-auto mb-2 mb-lg-0"> 
                                 
                                 <li className="nav-item">
