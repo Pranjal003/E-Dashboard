@@ -5,7 +5,7 @@ export default function Navbar() {
     const auth = localStorage.getItem('user'); 
     const navigate = useNavigate();
     const logout = () => { 
-        localStorage.clear();
+        localStorage.clear(); 
         navigate('/signUp')
    
     } 
