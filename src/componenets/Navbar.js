@@ -8,7 +8,7 @@ export default function Navbar() {
         localStorage.clear(); 
         navigate('/signUp')
    
-    } 
+    }  
     return ( 
         <div>  
             {auth ?  
