@@ -7,7 +7,7 @@ export default function Navbar() {
     const logout = () => { 
         localStorage.clear(); 
         navigate('/signUp')
-   
+    
     }  
     return ( 
         <div>  
