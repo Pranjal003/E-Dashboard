@@ -5,7 +5,7 @@ export default function Login() {
     const [email, setEmail] = useState("")
     const [password, setPassword] = useState("")
     const navigate = useNavigate();
-
+ 
     useEffect(()=>{
         const auth  = localStorage.getItem('user');
         if(auth){
