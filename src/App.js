@@ -6,7 +6,7 @@ import SignUp from './componenets/SignUp';
 import PrivateComponent from './componenets/PrivateComponent';
 import Login from './componenets/Login';
 import AddProducts from './componenets/AddProducts';
-import ProductList from './componenets/ProductList';
+import ProductList from './componenets/ProductList'; 
 import UpdateProduct from './componenets/UpdateProduct'; 
 
 function App() {
