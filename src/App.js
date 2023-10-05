@@ -11,7 +11,7 @@ import UpdateProduct from './componenets/UpdateProduct';
 
 function App() {
   return ( 
-    <>
+    <> 
     <Router>
     <Navbar />
       <Routes>
