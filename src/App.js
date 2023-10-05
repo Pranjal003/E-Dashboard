@@ -10,7 +10,7 @@ import ProductList from './componenets/ProductList';
 import UpdateProduct from './componenets/UpdateProduct'; 
 
 function App() {
-  return (
+  return ( 
     <>
     <Router>
     <Navbar />
