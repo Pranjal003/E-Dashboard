@@ -14,7 +14,7 @@ function App() {
     <> 
     <Router> 
     <Navbar />
-      <Routes>
+      <Routes> 
 
         <Route element={<PrivateComponent />}>  
         {/* // used for protected routes. */}
