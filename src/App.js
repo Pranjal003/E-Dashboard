@@ -3,7 +3,7 @@ import Navbar from './componenets/Navbar';
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import Footer from './componenets/Footer';
 import SignUp from './componenets/SignUp';
-import PrivateComponent from './componenets/PrivateComponent';
+import PrivateComponent from './componenets/PrivateComponent'; 
 import Login from './componenets/Login';
 import AddProducts from './componenets/AddProducts';
 import ProductList from './componenets/ProductList'; 
