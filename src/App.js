@@ -20,7 +20,7 @@ function App() {
         {/* // used for protected routes. */}
         <Route path="/" element={<ProductList />} />
         <Route path="/add" element={<AddProducts />} />
-        <Route path="/update/:id" element={<UpdateProduct />} />
+        <Route path="/update/:id" element={<UpdateProduct />} /> 
         <Route path="/profile" element={<h1>profile</h1>} />
         <Route path="/logout" element={<h1>Thanks for shopping with us</h1>} />
         </Route>
