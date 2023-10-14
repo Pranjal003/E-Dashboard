@@ -9,7 +9,7 @@ export default function ProductList() {
     },[])
 
     const getproducts = async ()=>{
-        let result =await fetch('http://localhost:5000/products');  
+        let result =await fetch('http://localhost:5000/products');   
         result  = await result.json();
         setproducts(result);
     }
