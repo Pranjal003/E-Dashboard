@@ -8,7 +8,7 @@ export default function ProductList() {
             getproducts();
     },[])
 
-    const getproducts = async ()=>{
+    const getproducts = async ()=>{ 
         let result =await fetch('http://localhost:5000/products');   
         result  = await result.json();
         setproducts(result);
