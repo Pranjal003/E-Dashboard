@@ -14,7 +14,7 @@ app.post("/register", async (req, res) => {
     result = result.toObject()
     delete result.password
     res.send(result);
-}) 
+})  
 
 app.post("/login", async (req, res) => {
     if (req.body.password && req.body.email) {
