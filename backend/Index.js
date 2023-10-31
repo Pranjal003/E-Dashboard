@@ -5,7 +5,7 @@ const User = require("./DB/User");
 const app = express();
 const Product = require("./DB/Product") 
 
-app.use(express.json());
+app.use(express.json()); 
 app.use(cors()); 
 
 app.post("/register", async (req, res) => {
