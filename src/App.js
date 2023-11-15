@@ -1,6 +1,6 @@
 import './App.css';
 import Navbar from './componenets/Navbar'; 
-import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
+import {BrowserRouter as Router, Routes, Route} from 'react-router-dom' 
 import Footer from './componenets/Footer';
 import SignUp from './componenets/SignUp';
 import PrivateComponent from './componenets/PrivateComponent'; 
