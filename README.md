@@ -8,7 +8,7 @@ This amazing website can be very helpful for a seller who wants to sell on e-sto
 
 ![image](https://github.com/Pranjal003/E-Dashboard/assets/92199952/0752c09b-884c-48d7-9427-df918c82c919)
 
-![image](https://github.com/Pranjal003/E-Dashboard/assets/92199952/57527d3a-ac4b-4f08-a32b-751a75417bfe)
+![image](https://github.com/Pranjal003/E-Dashboard/assets/92199952/57527d3a-ac4b-4f08-a32b-751a75417bfe) 
 
 ![image](https://github.com/Pranjal003/E-Dashboard/assets/92199952/51e2d686-0934-465c-bbe8-78d7c9810f72)
 
